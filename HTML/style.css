@@ -1,0 +1,31 @@
+* {
+    background-color: blue;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: blue;
+    padding: 20px;
+}
+
+.images {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.images img {
+    width: 200px; /* You can adjust this */
+    height: auto;
+    display: block;
+    border-radius: 10px;
+}
+.table{
+    display: flex;
+    justify-self: center;
+}
