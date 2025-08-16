@@ -1,0 +1,4 @@
+// truthy and falsy 
+// js mai har cheez 2 usme divide hoti hai truthy and falsy
+
+// falsy values yeh hai = 0 false undefined nul NaN document.all

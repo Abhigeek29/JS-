@@ -16,3 +16,5 @@ function abcd(){
 // function abcd ke call hote hi ek execution context bann gaya hoga 
 // usme var a aur def function store hogaya hai but lexical environment var b jo function def ke andar hai usse store karne 
 // nhi degi
+
+// lexical environment basically batata hai kya accessible hai aur kya nhi
