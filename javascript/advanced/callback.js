@@ -7,6 +7,6 @@ hence hum is case mai fallback function ka use karenge
  */
 // ex
 setTimeout(function(){
-console.log("10 second baad chalao");
+console.log("10 second baad chalao"); // part of async js
 
 }, 10000) // time is in millisecond
